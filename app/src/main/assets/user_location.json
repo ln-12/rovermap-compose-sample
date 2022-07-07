@@ -1,0 +1,12 @@
+[
+   {
+      "name":"user_location",
+      "geometry":"point",
+      "properties":[
+         {
+            "name":"label",
+            "type":"string"
+         }
+      ]
+   }
+]

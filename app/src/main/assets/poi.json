@@ -1,0 +1,16 @@
+[
+   {
+      "name":"poi",
+      "geometry":"point",
+      "properties":[
+         {
+            "name":"code",
+            "type":"string"
+         },
+         {
+            "name":"label",
+            "type":"string"
+         }
+      ]
+   }
+]
